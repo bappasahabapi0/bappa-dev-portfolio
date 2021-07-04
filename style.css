@@ -1,0 +1,71 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin:0;
+    padding: 0;
+}
+h1{
+    /* font-size: 40px; */
+    font-size: 2.5rem;
+}
+h3{
+    font-size: 23px;
+}
+span{
+    color: orange;
+}
+p{
+    font-size: 20px;
+}
+
+/* ---------------- welcome section------------- */
+
+.flexiable{
+    display: flex;
+    background-color: plum;
+    /* overflow: hidden; */
+}
+.half-div{
+    width: 50%;
+    margin: 4%;
+    padding: 0 2%;
+}
+.wel-pic{
+    padding-top: 7%;
+    padding-left:10%;
+    width:70%;
+}
+a{
+   text-transform: uppercase;
+   text-decoration: none;
+   cursor: pointer;
+   font-size: 20px;
+   padding: 10px 40px;
+   background-image: linear-gradient(orange, tomato);
+}
+.bg-top{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    
+}
+/* ------------------------------ end welcome session........ */
+.dream{
+    display: flex;
+}
+.dream-pic{
+    padding-top: 7%;
+    padding-left: 0;
+    width: 80%;
+}
+.bg-dream{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    /* background-position-y: 300px; */
+}
+
+.experience-zone{
+    display: flex;
+}
+.experice{
+    margin-left: 4%;
+}
