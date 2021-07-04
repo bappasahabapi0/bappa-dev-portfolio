@@ -8,6 +8,9 @@
  -     second one is for the image 
  -     And then putting the two divs in another div named class="half-div"
  -     And finally put everythig in a section named flexiable.
- -𝗗𝗿𝗲𝗮𝗺 𝗕𝗶𝗴 𝗦𝗲𝗰𝘁𝗶𝗼𝗻:
+ - 𝗗𝗿𝗲𝗮𝗺 𝗕𝗶𝗴 𝗦𝗲𝗰𝘁𝗶𝗼𝗻:
  -     This section is just opposite of Welcome Section
- - 
+ - 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 𝗦𝗲𝗰𝘁𝗶𝗼𝗻:
+ -   This section is very interesting including three parts
+ -   1st part is heading tag
+ -   two dives havig the same properties named half-div class. 
