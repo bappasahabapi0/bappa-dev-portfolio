@@ -6,4 +6,6 @@
  - we have two divs,
  -     first div is  for all the detaits including (h1, h3, p, a)
  -     second one is for the image 
- - And then putting the two divs in another div named class="half-div"
+ -     And then putting the two divs in another div named class="half-div"
+ -     And finally put everythig in a section named flexiable.
+ - 
