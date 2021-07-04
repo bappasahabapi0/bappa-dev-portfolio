@@ -38,8 +38,9 @@ a{
    text-transform: uppercase;
    text-decoration: none;
    cursor: pointer;
-   font-size: 20px;
-   padding: 10px 40px;
+   font-size: 15px;
+   color: white;
+   padding: 10px 25px;
    background-image: linear-gradient(orange, tomato);
 }
 .bg-top{
@@ -93,4 +94,10 @@ a{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position-y: 50px;
+}
+footer{
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 20px;
 }
