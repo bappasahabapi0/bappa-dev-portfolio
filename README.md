@@ -7,8 +7,8 @@
  -      border-image-slice: 1;
  -      display: flex;
  -      font-family: 'Poppins', sans-serif;
- -প্রথমে আমি এখানে পুরো সাইটাকে চারটি অংশে ভাগ করেছি।
- - They are: Welcome section , Dream big Section , Experience section and Footer.
+ -𝗙𝗶𝗿𝘀𝘁 𝗜 𝗱𝗶𝘃𝗶𝗱𝗲𝗱 𝘁𝗵𝗲 𝘄𝗵𝗼𝗹𝗲 𝘀𝗶𝘁𝗲 𝗶𝗻𝘁𝗼 𝗳𝗼𝘂𝗿 𝗽𝗮𝗿𝘁𝘀:
+ -      They are: Welcome section , Dream big Section , Experience section and Footer.
  - 𝗪𝗲𝗹𝗰𝗼𝗻𝗲 𝗦𝗲𝗰𝘁𝗶𝗼𝗻:
  - we have two divs,
  -     first div is  for all the detaits including (h1, h3, p, a)
