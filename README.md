@@ -11,6 +11,6 @@
  - 𝗗𝗿𝗲𝗮𝗺 𝗕𝗶𝗴 𝗦𝗲𝗰𝘁𝗶𝗼𝗻:
  -     This section is just opposite of Welcome Section
  - 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 𝗦𝗲𝗰𝘁𝗶𝗼𝗻:
- -    This section is very interesting including three parts
- -    1st part is heading tag
- -    two dives havig the same properties named half-div class. 
+ -      This section is very interesting including three parts
+ -      1st part is heading tag
+ -      two dives havig the same properties named half-div class. 
