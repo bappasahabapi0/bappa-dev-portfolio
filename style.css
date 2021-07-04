@@ -21,7 +21,7 @@ p{
 
 .flexiable{
     display: flex;
-    background-color: plum;
+    /* background-color: plum; */
     /* overflow: hidden; */
 }
 .half-div{
@@ -65,7 +65,32 @@ a{
 
 .experience-zone{
     display: flex;
+    margin-bottom: 10px;
+    
 }
 .experice{
-    margin-left: 4%;
+    margin-left: 6%;
+}
+#senior{
+    /* border: 10px solid; */
+    border-left: 10px solid;
+    border-radius: 7px;
+    box-shadow: 10px 10px 40px gray;
+    border-image: linear-gradient(green, red);
+    border-image-slice: 1;
+
+}
+#junior{
+    /* border: 10px solid; */
+    border-left: 10px solid;
+    border-radius: 7px;
+    box-shadow: 10px 10px 40px gray;
+    border-image: linear-gradient(blue,orange);
+    border-image-slice: 1;
+
+}
+.bg-experience{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position-y: 50px;
 }
