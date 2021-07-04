@@ -8,4 +8,6 @@
  -     second one is for the image 
  -     And then putting the two divs in another div named class="half-div"
  -     And finally put everythig in a section named flexiable.
+ - Dream Big Section:
+ -     This section is just opposite of Welcome Section
  - 
